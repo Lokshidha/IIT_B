@@ -37,7 +37,7 @@ Receive real-time weather updates, access public transportation information, and
 💡 **Monetization and Analytics:**
 Unlock premium features, enjoy an ad-free experience, and receive insightful analytics based on user feedback. Your journey with CityDiscover is not just exploration; it's an evolving adventure.
 
-
+### " For your information , youre kindly requested to use your own HERE plugin , chatgpt api key as it is confidential to share with. "
 
 ### To create an llm powered tourism assistant 
 
