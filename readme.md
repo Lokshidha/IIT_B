@@ -1,7 +1,12 @@
 # Your tourism agent
 
+**Problem statement**
+Tourism and City Exploration App: Design a mobile app using HERE Location
+Services and Mobile SDKs that offers guided tours, historical information, and
+interactive maps for tourists exploring a city
+
 ## Objective 
-Introducing "tamizhtrek" your go-to app for effortless city exploration! Powered by HERE Location Services and Mobile SDKs, this mobile app seamlessly combines advanced mapping technology with an AI chatbot, offering a rich and immersive travel experience.
+Say hello to "tamizhtrek", the ultimate app for effortless city exploration! With the help of HERE Location Services and Mobile SDKs, this app effortlessly fuses cutting-edge mapping technology and an intelligent chatbot to provide you with a dynamic and immersive travel adventure.
 
 **Key Features:**
 
